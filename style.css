@@ -1,4 +1,22 @@
 body {
-    background: rgb(197, 91, 174);
-      color: rgb(196, 27, 55);
+    background-color: #fbe2e2;
+    color: black;
+    
+
+}
+
+div#title {
+    font: 30px/75px neoneon; 
+    color:rgb(192, 8, 100);
+    text-align: center;
+}
+
+div#intro {
+    font: 15px/30px andale mono;
+    color:black;
+    text-align: center;
+}
+
+div#picture {
+    align-items: center;
 }
